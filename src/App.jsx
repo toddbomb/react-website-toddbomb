@@ -31,7 +31,7 @@ function App() {
             <h2>Interests and Hobbies</h2>
             <ul>
                 <li>Music</li>
-                <li>Tennis (I suck though)</li>
+                <li>Tennis</li>
                 <li>Pens/Pencils/Stationary</li>
                 <li>Formula 1</li>
                 <li>Video gaming</li>
@@ -51,7 +51,6 @@ function App() {
                 <li>PHYS 13, 14</li>
                 <li>ECON 1</li>
             </ul>
-            <button onclick="scrollToTop()">Click me to go back to the top of the page. </button>
         </section>
         <footer>
             <a target="_blank" href="https://twitter.com/toddbombb" className="footer-link">Twitter</a>
